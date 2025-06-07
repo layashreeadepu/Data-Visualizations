@@ -1,6 +1,9 @@
 # Data-Visualizations
 Repository for all visualizations projects done
 
+## Emergency Room Performance Monitor - Power BI
+![image](https://github.com/layashreeadepu/Emergency-Room-Performance-Monitor/blob/1e2ea1312f835f9d2a1fe8624044bd2e6d6332e3/Screenshot%202025-06-07%20173914.png)
+
 ## Organ Donation Dashboard - Power BI
 ![image](https://github.com/user-attachments/assets/3f5e84b2-01da-4b96-95a7-f2e0131b3feb)
 
